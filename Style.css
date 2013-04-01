@@ -1,0 +1,51 @@
+.Fondo
+{
+	font-family: "Comic Sans MS", cursive;
+	background-color: #5CE1E9;
+
+}
+
+BODY
+{
+	margin-top: 20px;
+	margin-right: 50;
+	margin-bottom: 20px;
+	margin-left: 5opx;
+}
+
+h
+{
+	color: black;
+	font-size:32px;
+	line-height: 100%;
+	
+}
+
+
+t
+{
+	color: #00F;
+	font-size: 20px;
+	line-height: 20%;
+	text-align: left;
+	font-decoration: underline
+}
+
+
+p
+{
+	color: black;
+	font-size: 14px;
+	line-height: 50%;
+}
+
+img
+{
+	vertical-align: text-top;
+}
+
+
+A:link {color: black; font-size: 12pt; font-family: "Comic Sans MS"; text-decoration: none }
+A:active {color: red; font-size: 12pt; font-family: "Comic Sans MS"; text-decoration: none }
+A:hover {color: red; font-size: 12pt; font-family: "Comic Sans MS"; text-decoration: none }
+A:visited {color: green; font-size: 12pt; font-family: "Comic Sans MS"; text-decoration: none }
